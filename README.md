@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from BMSTU</h3>
 <h3>Я занимаюсь backend разработкой на Python, дообучением языковых моделей с помощью Lora\Qlora, применением моделей в своих проектах </h3>
-<h3>Мой последний проект - FinancePlatform</h3>
+<h3>Мой последний проект - FinancePlatform. На данный момент это моя самая большая работа по анализу, сбору, обработке данных и количеству использоваемых зависимостей </h3>
 
 
 
