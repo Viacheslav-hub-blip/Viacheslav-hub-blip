@@ -1,7 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Viacheslav</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student from BMSTU</h3>
+<h3>Я занимаюсь backend разработкой на Python, дообучением языковых моделей с помощью Lora\Qlora, применением моделей в своих проектах </h3>
+<h3>Мой последний проект - FinancePlatform</h3>
+
+
 
 <!--
 **Viacheslav-hub-blip/Viacheslav-hub-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav-hub-blip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Viacheslav-hub-blip)](https://github.com/ryo-ma/github-profile-trophy)
 
 Here are some ideas to get you started:
 
