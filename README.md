@@ -70,7 +70,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Viacheslav-hub-blip&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
-<p/>
+<p></p>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viacheslav-hub-blip&theme=dracula&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
