@@ -81,7 +81,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Viacheslav-hub-blip&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viacheslav-hub-blip&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viacheslav-hub-blip&theme=dracula&days=90)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ###
