@@ -34,14 +34,6 @@
 - [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
 - [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
 
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
@@ -78,7 +70,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Viacheslav-hub-blip&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
-
+<p/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viacheslav-hub-blip&theme=dracula&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
